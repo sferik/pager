@@ -2,8 +2,8 @@
 require File.expand_path('../lib/pager/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["Erik Michaels-Ober"]
-  gem.email         = ["sferik@gmail.com"]
+  gem.authors       = ["Erik Michaels-Ober", "Nathan Weizenbaum"]
+  gem.email         = ["sferik@gmail.com", "nex342@gmail.com"]
   gem.description   = %q{TODO: Write a gem description}
   gem.summary       = %q{TODO: Write a gem summary}
   gem.homepage      = ""
