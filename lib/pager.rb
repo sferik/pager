@@ -26,6 +26,7 @@ module Pager
     Kernel.select [STDIN] # Wait until we have input before we start the pager
     pager = ENV['PAGER'] || 'less'
     exec pager rescue exec "/bin/sh", "-c", pager
+  rescue StandardError
   end
 
 end
