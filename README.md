@@ -44,8 +44,12 @@ to this project. If you're looking for `irb-pager`, it can be found
 
 ## Contributing
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
+1. [Fork it][fork]
+2. [Create a topic branch][branch] (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+5. [Submit a pull request.][pr]
+
+[fork]: http://help.github.com/fork-a-repo/
+[branch]: http://learn.github.com/p/branching.html
+[pr]: http://help.github.com/send-pull-requests/
